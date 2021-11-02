@@ -20,7 +20,7 @@ export default {
         {
           text: 'Cliente',
           align: 'start',
-          sortable: false,
+          // sortable: false,
           value: 'name',
         },
         { text: 'OT', value: 'codOT' },
